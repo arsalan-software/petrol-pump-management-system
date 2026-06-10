@@ -52,3 +52,7 @@ This project was created to demonstrate practical skills in web application deve
 ## Role
 
 Developer and Manual QA Tester
+
+## Source Code
+
+The source code of this project is kept private for security and project protection reasons. Code access can be provided upon request for hiring or technical review purposes.
