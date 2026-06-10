@@ -31,6 +31,23 @@ This project was developed to manage daily petrol pump operations in a structure
 - CSS
 - Bootstrap
 
+## Screenshots
+
+### Dashboard
+![Dashboard](dasboard.png)
+
+### Quick Meter Entry
+![Quick Meter Entry](quick%20meter%20entry.png)
+
+### Monthly Report
+![Monthly Report](monthlyreport.png)
+
+### Tank Status
+![Tank Status](tank%20stautus.png)
+
+### Additional Screen
+![Additional Screen](Screenshot%202026-06-10%20180639.png)
+
 ## Testing Performed
 
 Manual testing was performed on the main workflows of the system, including:
